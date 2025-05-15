@@ -1,2 +1,12 @@
-gitlab.com/aao-fyi/shock v0.0.0-20230610204707-2ace6acb9152 h1:BWOtAGcVyuyh5Lv7bChLzdGr6u0wT397DtXZNa7zJ6U=
-gitlab.com/aao-fyi/shock v0.0.0-20230610204707-2ace6acb9152/go.mod h1:14/rcSliHOmN2kxdyoQntHnZcBnxGdjgsbT6YZzPjFk=
+codeberg.org/aao-fyi/project-logos v0.0.0-20250515073700-2c4b94b645a4 h1:osK4D9mtNvU5mzJIIQXjOmJpCm0vo8J+20awLfpWOVI=
+codeberg.org/aao-fyi/project-logos v0.0.0-20250515073700-2c4b94b645a4/go.mod h1:fLjIZpOviK0Pih2a3AdHYqsBib5m5TWjqSrlkkTreys=
+codeberg.org/aao-fyi/shock v0.0.0-20250515044326-13241b7ebf8a h1:TMi410lMzR2FOAf1/PTiD9UjDHxEIdn4ALeLjfWpT0Q=
+codeberg.org/aao-fyi/shock v0.0.0-20250515044326-13241b7ebf8a/go.mod h1:SKItje4kOdoJwvLL7Ho1HMDdBYrEOU3jrJVK4vybB/g=
+github.com/lucide-icons/lucide v0.0.0-20241001201341-542507f8358c h1:kRcjKMQLtd4aL94+Vz51bXCce4WJxxWBb+t2kbjCdDo=
+github.com/lucide-icons/lucide v0.0.0-20241001201341-542507f8358c/go.mod h1:0HX/9u6n25zuV2HgBIuqfMfDktGNXmsvYqL1cOK4aWc=
+github.com/simple-icons/simple-icons v0.0.0-20240929022857-8be6321b1e5f h1:+Nw9tw0ainM4cwnmpiP9NrvJswwQaYakRZoa2i9rxeY=
+github.com/simple-icons/simple-icons v0.0.0-20240929022857-8be6321b1e5f/go.mod h1:oOgUUt8yVYOso/wEBi2ojfZP2MU/xxiNccIpaE+jCvE=
+github.com/twbs/bootstrap v5.3.6+incompatible h1:efmXVyq839m5QQ0+JBUdQQ1TrmoBqvQ5kRhUueKsH+4=
+github.com/twbs/bootstrap v5.3.6+incompatible/go.mod h1:fZTSrkpSf0/HkL0IIJzvVspTt1r9zuf7XlZau8kpcY0=
+github.com/twbs/rfs v10.0.0+incompatible h1:lMyvQ7s06iPYrTFQrv7huR/xr9PvuSov7lA5mXtRx0A=
+github.com/twbs/rfs v10.0.0+incompatible/go.mod h1:mbMdcvcjCRHHt4qGxZ2creZ2xS7uR1x1xA5b+dYgIzo=
