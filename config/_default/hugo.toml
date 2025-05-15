@@ -1,7 +1,7 @@
 # Root
-baseURL = 'https://clickinbad.arcade.aao.fyi/'
+baseURL = 'https://arcade.aao.fyi/clickinbad/'
 languageCode = 'en'
-theme = 'gitlab.com/aao-fyi/shock'
+theme = 'codeberg.org/aao-fyi/shock'
 
 # Info
 title = 'ClickinBad'
@@ -27,26 +27,13 @@ enableRobotsTXT = true
   # Version
   [module.hugoVersion]
     extended = true
-    min = '0.111.0'
-
-[params]
-  description = 'Click your life away in this Breaking Bad inspired clicker game.'
-  # PostCSS
-  postCSS = true
-  # Bootstrap JS
-  bootstrapJS = false
-  # Navbar
-  navbarBrandLogo = false
-  navbarBrandText = false
-  navbarFixedTop = false
-  # Header
-  headerState = false
-  # Footer
-  footerState = false
-  # Manifest
-  manifestJSON = true
-  manifestColorBG = "#28d"
-
+    min = '0.146.0'
+  # Logo
+  [[module.imports]]
+    path = 'codeberg.org/aao-fyi/project-logos'
+  [[module.imports.mounts]]
+    source = 'arcade-clickinbad'
+    target = 'assets/img/logo/'
 
 # Footer
 [menu]

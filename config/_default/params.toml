@@ -1,0 +1,55 @@
+description = 'Click your life away in this Breaking Bad inspired clicker game.'
+
+# Bootstrap
+[bootstrap]
+  javascript = false
+
+# PostCSS
+[postCSS]
+  state = true
+
+# Header
+[header]
+  state = false
+  brandLogo = false
+  brandText = false
+  fixedTop = false
+
+# Banner
+[banner]
+  home = false
+  section = false
+  single = false
+
+# Sidebar
+[sidebar]
+  home = false
+  section = false
+  single = false
+
+# Breadcrumbs
+[breadcrumb]
+  home = false
+  section = false
+  single = false
+
+# Heading
+[heading]
+  home = false
+  section = false
+  single = false
+  description = false
+
+# Footer
+[footer]
+  state = false
+  stick = false
+
+# Manifest
+[manifest]
+  state = true
+  background = "#28d"
+
+# Robots
+[robots]
+  llmsTXT = false
